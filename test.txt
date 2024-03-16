@@ -1,6 +1,7 @@
 develop-3-2
-initial
+hotfix
 develop1-1
+hotfix
 develop1-2
 develop-2-1
 develop-2-2
